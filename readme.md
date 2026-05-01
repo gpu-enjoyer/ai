@@ -1,6 +1,7 @@
 
 # Играю в шахматы на Lichess с 2023 года
 
+[*lichess.ipynb*](lichess.ipynb)
 
 ## Roadmap
 
